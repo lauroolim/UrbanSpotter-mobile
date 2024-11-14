@@ -1,0 +1,7 @@
+{
+  "name": "urbanspotter-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
